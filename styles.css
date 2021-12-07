@@ -1,0 +1,88 @@
+ /*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+/* DEVELOPER Brianna Omar, IS117-101, Spring 2021 */
+
+body{
+    font-family: 'bebas Neue';
+    }
+    
+    
+    .row {
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    }
+    
+    
+    #img-supreme, #img-gucci, #img-adidas, #img-puma, #img-pacsun{
+    height: 361px;
+    }
+    
+    #row2 {
+    margin-top: 20px;
+    }
+    
+    #text{
+    text-align: center;
+    }
+    
+    #footer2{
+    color: white;
+    margin-top: 10px;
+    }
+    
+    #footer{
+        color: white;
+        margin-top: 10px;
+        }
+    
+    #footer3 {
+    color: white;
+    margin-top: 20px;
+    }
+    
+    #margin{
+    margin-top: 10px;
+    }
+    
+    #margin2 {
+    margin-top: 20px;
+    }
+    
+    #margin3 {
+    margin-top: 20px;
+    margin-bottom: 85px;
+    }
+    
+    #margin4 {
+        margin-top: 20px;
+        margin-bottom: 55px;
+        }
+    
+    #navbar{
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        }
+    
+    #foot {
+    opacity: 75%;
+    }
+    
+    #send{
+    color:white;
+    }
+    
+    #left{
+    margin-left: 10px;
+    }
